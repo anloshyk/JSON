@@ -1,5 +1,7 @@
 {
-line 1
-line 2
-line 3
+	"name": "Anastasiya",
+	"age": 25,
+	"pets": 2,
+	"salary": 5000
 }
+
