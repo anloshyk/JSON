@@ -1,1 +1,11 @@
-
+{
+    "name": "Cart screen is not opened after clicking on button",
+    "steps_to_reproduce": [
+        {
+            "step_1": "proceed to  main screen",
+            "step_2": "click on the cart button"
+        }
+    ],
+    "Actual Result": "Cart screen is not opened",
+    "Expected Result": "Cart screen is opened"   
+}
